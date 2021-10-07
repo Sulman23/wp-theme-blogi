@@ -1,0 +1,7 @@
+-- theme check --
+. check readme file how to make it for blogi
+. image.php what is that should it remove or not?
+. what about licence file?
+. jet pack and extra php file what are those?
+. rtl file
+. after theme check what that said....
